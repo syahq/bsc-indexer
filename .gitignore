@@ -1,0 +1,13 @@
+.DS_Store
+.idea
+*.log**
+*.gz
+
+node_modules
+.env
+postgres_data
+dist
+.**-audit.json
+logs
+
+
